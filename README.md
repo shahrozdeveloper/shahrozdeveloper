@@ -41,9 +41,9 @@ Welcome to my GitHub profile! I'm a passionate **React.js Developer** with over 
 
 ## 📫 Let's Connect
 
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **Portfolio**: [yourwebsite.com](https://www.yourwebsite.com)
+- **LinkedIn**: [Your LinkedIn Profile](www.linkedin.com/in/developer-shahroz)
+- **Email**: [your.email@example.com](mailto:developer.shahroz@gmail.com)
+- **WhatsApp**: [Whatsapp](https://wa.me/03074169685)
 
 ---
 
