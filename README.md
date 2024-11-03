@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shahroz Shahid</h1>
 <h3 align="center">WordPress & Webflow Expert | Full-Stack Web Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shahrozdeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="shahrozdeveloper" /> </p>
 
 🔭 I'm currently working on **Custom WordPress Solutions & Webflow Projects**
 
@@ -38,7 +38,7 @@
 - REST APIs
 
 ### 📊 GitHub Stats:
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?shahrozdeveloper=shahrozdeveloper&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shahrozdeveloper&show_icons=true&theme=radical)
 
 ### 🏆 Recent Projects:
 
@@ -62,6 +62,6 @@
 
 ### 🤝 Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/developer-shahroz" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yourusername" height="30" width="40" /></a>
-<a href="https://www.upwork.com/freelancers/~01409f826242e31456" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/upwork.svg" alt="yourusername" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/developer-shahroz" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="developer-shahroz" height="30" width="40" /></a>
+<a href="https://www.upwork.com/freelancers/~01409f826242e31456" target="_blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-upwork-3629131-3030271.png" alt="Upwork Profile" height="30" width="30" /></a>
 </p>
